@@ -1,0 +1,30 @@
+[
+    {
+        "buyer_id": 3,
+        "name": "MR.3",
+        "age": 43,
+        "type": "Sport",
+        "email": "3@example.com"
+    },
+    {
+        "buyer_id": 4,
+        "name": "MR.4",
+        "age": 48,
+        "type": "Electronic",
+        "email": "4@example.com"
+    },
+    {
+        "buyer_id": 5,
+        "name": "MR.5",
+        "age": 45,
+        "type": "Note",
+        "email": "5@example.com"
+    },
+    {
+        "buyer_id": 1,
+        "name": "MR.1",
+        "age": 48,
+        "type": "Chocolate",
+        "email": "1@example.com"
+    }
+]
