@@ -8,4 +8,4 @@
  Install dependencies:
 ```bash
    pip install psycopg2-binary pandas
-   python postgres_crud.py
+   python buyer.py
