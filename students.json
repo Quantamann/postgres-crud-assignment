@@ -1,9 +1,0 @@
-[
-    {
-        "student_id": 1,
-        "name": "Alan",
-        "age": 33,
-        "department": "Cs",
-        "email": "Alan@gmail.com"
-    }
-]
